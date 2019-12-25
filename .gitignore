@@ -6,12 +6,14 @@
 /.idea/workspace.xml
 .DS_Store
 /build
-app/build
 /captures
 .externalNativeBuild
 
 /.gradle/
 /.idea/
-*.apk
+app/build
 *.tflite
 *.pb
+*.apk
+gradle
+*.log
